@@ -1,5 +1,7 @@
 # RF paikannimet
+
 Finnish: Maanmittauslaitoksen paikannimirekisteristä lokakuussa 2024 haetut paikannimet ja satunnaismetsäluokittelija-scripti R-kielellä
+
 English: Place names of the Place Name Register from National Land Survey of Finland October 2024 and a random forest classifier script in R
 
 ## NOTE TO READERS:
