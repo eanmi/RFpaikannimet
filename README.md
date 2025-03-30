@@ -1,2 +1,2 @@
 # RF paikannimet
-Paikannimiaineisto (Maanmittauslaitos, Paikannimet, lokakuu 2024) ja satunnaismetsäluokittelija R-kielellä
+Paikannimiaineisto (Maanmittauslaitoksen, Paikannimet-tiedosto, lokakuu 2024) ja satunnaismetsäluokittelija R-kielellä
